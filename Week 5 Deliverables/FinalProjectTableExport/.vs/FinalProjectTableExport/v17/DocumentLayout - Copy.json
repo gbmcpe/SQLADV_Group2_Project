@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\SQL\\Desktop\\FinalProjectTableExport\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B1C70F5C-4495-A259-59AD-CE50104EE5DF}|FinalProjectTableExport\\FinalProjectTableExport.dtproj|C:\\Users\\SQL\\Desktop\\FinalProjectTableExport\\FinalProjectTableExport\\Package.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design",
+      "RelativeMoniker": "D:0:0:{B1C70F5C-4495-A259-59AD-CE50104EE5DF}|FinalProjectTableExport\\FinalProjectTableExport.dtproj|solutionrelative:FinalProjectTableExport\\Package.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Package.dtsx [Design]",
+              "DocumentMoniker": "C:\\Users\\SQL\\Desktop\\FinalProjectTableExport\\FinalProjectTableExport\\Package.dtsx",
+              "RelativeDocumentMoniker": "FinalProjectTableExport\\Package.dtsx",
+              "ToolTip": "C:\\Users\\SQL\\Desktop\\FinalProjectTableExport\\FinalProjectTableExport\\Package.dtsx [Design]",
+              "RelativeToolTip": "FinalProjectTableExport\\Package.dtsx [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-04-28T19:39:03.754Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
