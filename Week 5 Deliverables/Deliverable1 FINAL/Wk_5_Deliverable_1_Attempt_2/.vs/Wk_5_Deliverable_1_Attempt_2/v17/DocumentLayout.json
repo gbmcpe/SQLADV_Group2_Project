@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\SQL\\Desktop\\Wk_5_Deliverable_1_Attempt_2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2C29BD33-87D9-B9DA-4D6B-59A2F18A63B9}|Wk_5_Deliverable_1_Attempt_2\\Wk_5_Deliverable_1_Attempt_2.dtproj|C:\\Users\\SQL\\Desktop\\Wk_5_Deliverable_1_Attempt_2\\Wk_5_Deliverable_1_Attempt_2\\Package.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design",
+      "RelativeMoniker": "D:0:0:{2C29BD33-87D9-B9DA-4D6B-59A2F18A63B9}|Wk_5_Deliverable_1_Attempt_2\\Wk_5_Deliverable_1_Attempt_2.dtproj|solutionrelative:Wk_5_Deliverable_1_Attempt_2\\Package.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Package.dtsx [Design]",
+              "DocumentMoniker": "C:\\Users\\SQL\\Desktop\\Wk_5_Deliverable_1_Attempt_2\\Wk_5_Deliverable_1_Attempt_2\\Package.dtsx",
+              "RelativeDocumentMoniker": "Wk_5_Deliverable_1_Attempt_2\\Package.dtsx",
+              "ToolTip": "C:\\Users\\SQL\\Desktop\\Wk_5_Deliverable_1_Attempt_2\\Wk_5_Deliverable_1_Attempt_2\\Package.dtsx [Design]",
+              "RelativeToolTip": "Wk_5_Deliverable_1_Attempt_2\\Package.dtsx [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-04-30T07:27:05.969Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
