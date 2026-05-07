@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SharedDataSet xmlns="http://schemas.microsoft.com/sqlserver/reporting/2010/01/shareddatasetdefinition" xmlns:rd="http://schemas.microsoft.com/SQLServer/reporting/reportdesigner">
+  <DataSet Name="DataSet1">
+    <Query>
+      <DataSourceReference>ds_Adventureworks2019</DataSourceReference>
+      <DataSetParameters>
+        <DataSetParameter Name="@StartProductID">
+          <ReadOnly>false</ReadOnly>
+          <Nullable>false</Nullable>
+          <OmitFromQuery>false</OmitFromQuery>
+          <rd:DbType>Int32</rd:DbType>
+        </DataSetParameter>
+        <DataSetParameter Name="@CheckDate">
+          <ReadOnly>false</ReadOnly>
+          <Nullable>false</Nullable>
+          <OmitFromQuery>false</OmitFromQuery>
+          <rd:DbType>DateTime</rd:DbType>
+        </DataSetParameter>
+      </DataSetParameters>
+      <CommandType>StoredProcedure</CommandType>
+      <CommandText>uspGetBillOfMaterials</CommandText>
+    </Query>
+    <Fields>
+      <Field Name="ProductAssemblyID">
+        <DataField>ProductAssemblyID</DataField>
+        <rd:TypeName>System.Int32</rd:TypeName>
+      </Field>
+      <Field Name="ComponentID">
+        <DataField>ComponentID</DataField>
+        <rd:TypeName>System.Int32</rd:TypeName>
+      </Field>
+      <Field Name="ComponentDesc">
+        <DataField>ComponentDesc</DataField>
+        <rd:TypeName>System.String</rd:TypeName>
+      </Field>
+      <Field Name="TotalQuantity">
+        <DataField>TotalQuantity</DataField>
+        <rd:TypeName>System.Decimal</rd:TypeName>
+      </Field>
+      <Field Name="StandardCost">
+        <DataField>StandardCost</DataField>
+        <rd:TypeName>System.Decimal</rd:TypeName>
+      </Field>
+      <Field Name="ListPrice">
+        <DataField>ListPrice</DataField>
+        <rd:TypeName>System.Decimal</rd:TypeName>
+      </Field>
+      <Field Name="BOMLevel">
+        <DataField>BOMLevel</DataField>
+        <rd:TypeName>System.Int16</rd:TypeName>
+      </Field>
+      <Field Name="RecursionLevel">
+        <DataField>RecursionLevel</DataField>
+        <rd:TypeName>System.Int32</rd:TypeName>
+      </Field>
+    </Fields>
+  </DataSet>
+</SharedDataSet>
